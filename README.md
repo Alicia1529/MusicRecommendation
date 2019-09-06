@@ -6,7 +6,7 @@ Folder `/data` includes the different kinds of preprocessed by `/data_generator/
 
 To run Matrix Factorization model, run `python main.py` under folder `/mf`
 
-To run [RippleNet](https://arxiv.org/pdf/1803.03467.pdf) model by 
+To run [RippleNet](https://arxiv.org/pdf/1803.03467.pdf) model proposed by Huang
 ```
 $ cd kg
 $ python preprocess.py --dataset <sub folder under /data>
